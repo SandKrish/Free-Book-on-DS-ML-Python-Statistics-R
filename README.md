@@ -11,14 +11,28 @@
 
 [The Data Science Design Manual](https://www.webpages.uidaho.edu/~stevel/517/The%20Data%20Science%20Design%20Manual.pdf)
 
+[The Predictive Retailer](https://www.academia.edu/35259624/The_Predictive_Retailer)
+
 # Free Book on Statistics 
 [Understanding Statistics and Experimental Design](https://amzn.to/3EoOBnX)
+
+# Free Book on Probability 
+[Introduction to Probability for Data Science](https://probability4datascience.com/index.html)
 
 # Free Book on Machine Learning
 [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
 
 [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 
+[Pattern Recognition and MachineLearning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+
+[DataScience and MachineLearning - Mathematical and Statistical Methods](https://people.smp.uq.edu.au/DirkKroese/DSML/DSML.pdf)
+
+# Free Book on Optimization
+[A Gentle Introduction to Optimization](https://industri.fatek.unpatti.ac.id/wp-content/uploads/2019/03/116-A-Gentle-Introduction-to-Optimization-B.-Guenin-J.-K%C3%B6nemann-L.-Tun%C3%A7el-Edisi-1-2014.pdf)
+
+# Free Book on Neural Networks
+[Neural Network Design [2nd edition]](https://hagan.okstate.edu/NNDesign.pdf)
 
 # Free Book on Python 
 [Python Data Analysis: Comprehensive Guide to Data Science, Analytics and Metrics with Python](https://amzn.to/3UR2twH)
@@ -27,6 +41,14 @@
 
 # Free Book on R
 [R for Data Science](https://r4ds.had.co.nz/)
+
+[An Introduction to Statistical Learning with Applications in R](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)
+
+# Free Book on Data Mining
+[Data Preparation for Data Mining](https://temida.si/~bojan/MPS/materials/Data_preparation_for_data_mining.pdf)
+
+# Free Book on Data Clustering
+[Data Clustering](https://haralick.org/ML/data_clustering.pdf)
 
 # Free Book on BigData 
 [High-Performance Modelling and Simulation for Big Data Applications](https://amzn.to/3huqvz3)
