@@ -44,6 +44,8 @@
 
 [An Introduction to Statistical Learning with Applications in R](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)
 
+[Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
+
 # Free Book on Data Mining
 [Data Preparation for Data Mining](https://temida.si/~bojan/MPS/materials/Data_preparation_for_data_mining.pdf)
 
