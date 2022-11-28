@@ -41,6 +41,8 @@
 
 [Python Deep Learning](http://alvarestech.com/temp/deep/Python%20Deep%20Learning%20Exploring%20deep%20learning%20techniques,%20neural%20network%20architectures%20and%20GANs%20with%20PyTorch,%20Keras%20and%20TensorFlow%20by%20Ivan%20Vasilev,%20Daniel%20Slater,%20Gianmario%20Spacagna,%20Peter%20Roelants,%20Va%20(z-lib.org).pdf)
 
+[Python Machine Learning Projects](https://assets.digitalocean.com/books/python/machine-learning-projects-python.pdf)
+
 # Free Book on R
 [R for Data Science](https://r4ds.had.co.nz/)
 
