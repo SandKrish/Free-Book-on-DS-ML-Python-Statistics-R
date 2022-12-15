@@ -13,6 +13,8 @@
 
 [The Predictive Retailer](https://www.academia.edu/35259624/The_Predictive_Retailer)
 
+[Data Science Concepts and Practice- Second Edition ](https://asolanki.co.in/wp-content/uploads/2019/04/Data-Science-Concepts-and-Practice-2nd-Edition-3.pdf )
+
 # Free Book on Statistics 
 [Understanding Statistics and Experimental Design](https://amzn.to/3EoOBnX)
 
