@@ -18,8 +18,12 @@
 # Free Book on Statistics 
 [Understanding Statistics and Experimental Design](https://amzn.to/3EoOBnX)
 
+[Probability & Statistics 1](https://leibnizmathema.files.wordpress.com/2020/08/cambridge-international-as-a-level-mathematics-probability-statistics-1-coursebook-cambridge-assessment-international-education-by-dean-chalmers-julian-gilbey-leibniz-math.org-1-1.pdf)
+
 # Free Book on Probability 
 [Introduction to Probability for Data Science](https://probability4datascience.com/index.html)
+
+[Probability & Statistics 1](https://leibnizmathema.files.wordpress.com/2020/08/cambridge-international-as-a-level-mathematics-probability-statistics-1-coursebook-cambridge-assessment-international-education-by-dean-chalmers-julian-gilbey-leibniz-math.org-1-1.pdf)
 
 # Free Book on Machine Learning
 [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
