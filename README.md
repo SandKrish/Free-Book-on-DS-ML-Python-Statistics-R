@@ -61,5 +61,7 @@
 # Free Book on BigData 
 [High-Performance Modelling and Simulation for Big Data Applications](https://amzn.to/3huqvz3)
 
+[Big Data and AI Strategies – JP Morgan](https://cpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/2/51/files/2018/05/JPM-2017-MachineLearningInvestments.pdf)
+
 
 
