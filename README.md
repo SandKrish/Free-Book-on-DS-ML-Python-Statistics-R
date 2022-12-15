@@ -63,5 +63,7 @@
 
 [Big Data and AI Strategies – JP Morgan](https://cpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/2/51/files/2018/05/JPM-2017-MachineLearningInvestments.pdf)
 
+# Free Book on Business Intelligence
 
+[Business Intelligence A Managerial Perspective on Analytics](https://www.academia.edu/40596067/Business_Intelligence_A_Managerial_Perspective_on_Analytics?email_work_card=view-paper)
 
