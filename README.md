@@ -1,4 +1,5 @@
 # This document contains Free-Book-on-DS-ML-Python-Statistics-R
+This repository contains a curated list of free books and resources for learning, these resources are helpful for students, developers, and beginners who want to learn data science and analytics.
 
 # Free Book on Data Science 
 [Ethics and Data Science](https://amzn.to/3G3hmrw)
@@ -70,4 +71,9 @@
 # Free Book on Business Intelligence
 
 [Business Intelligence A Managerial Perspective on Analytics](https://www.academia.edu/40596067/Business_Intelligence_A_Managerial_Perspective_on_Analytics?email_work_card=view-paper)
+
+More resources will be added over time.
+
+Author
+Sandhya Krishnan
 
